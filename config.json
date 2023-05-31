@@ -1,0 +1,5 @@
+{
+    "connection_str": "mongodb://localhost:27017/",
+    "api_addr": "localhost:8080",
+    "api_keys": ["abc123"]
+}
